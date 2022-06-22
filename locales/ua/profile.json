@@ -1,0 +1,19 @@
+{
+    "tabProfileSettings": "Налаштування облікового запису",
+    "tabEmailSettings": "Налаштування електронної пошти",
+    "tabSecuritySettings": "Налаштування безпеки",
+    "communityLegalName": "Повне найменування юридичної особи",
+    "communityLegalAddress": "Місцезнаходження юридичної особи",
+    "communityLegalCode": "Код ЄДРПОУ",
+    "communityFound": "Дата реєстрації",
+    "communityContactUs": "Інформація для зворотнього зв'язку",
+    "communityContactUsPlaceholder": "Введіть інформацію для зворотнього зв'язку",
+    "email": "Електронна пошта",
+    "emailPlaceholder": "Введіть електронну пошту",
+    "emailErrorMessage": "Поле є обов'язковим та може складатися з букв латиниці, кирилиці, а також цифр та інших другорядних символів",
+    "password": "Новий пароль",
+    "passwordPlaceholder": "Введіть новий пароль",
+    "passwordErrorMessage": "Поле є обов'язковим та може складатися з букв латиниці, кирилиці, а також цифр та інших другорядних символів",
+    "buttonUpdate": "Зберегти",
+    "toastUpdate": "Успішно збережено"
+}

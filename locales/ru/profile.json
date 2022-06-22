@@ -1,0 +1,19 @@
+{
+    "tabProfileSettings": "Настройки учетной записи",
+    "tabEmailSettings": "Настройки электронной почты",
+    "tabSecuritySettings": "Настройки безопасности",
+    "communityLegalName": "Полное наименование юридического лица",
+    "communityLegalAddress": "Местонахождение юридического лица",
+    "communityLegalCode": "Код ЕГРПОУ",
+    "communityFound": "Дата регистрации",
+    "communityContactUs": "Информация для обратной связи",
+    "communityContactUsPlaceholder": "Введите информацию для обратной связи",
+    "email": "Электронная почта",
+    "emailPlaceholder": "Введите электронную почтe",
+    "emailErrorMessage": "Поле является обязательным и может состоять из букв латиницы, кириллицы, а также цифр и других второстепенных символов",
+    "password": "Новый пароль",
+    "passwordPlaceholder": "Введите новый пароль",
+    "passwordErrorMessage": "Поле является обязательным и может состоять из букв латиницы, кириллицы, а также цифр и других второстепенных символов",
+    "buttonUpdate": "Сохранить",
+    "toastUpdate": "Успешно сохранено"
+}

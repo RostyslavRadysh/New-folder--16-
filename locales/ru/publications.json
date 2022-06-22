@@ -1,0 +1,21 @@
+{
+    "publicationCreate": "Отправить новость",
+    "publicationCreateButton": "Отправить",
+    "publicationBuilding": "Дом",
+    "publicationBuildingErrorMessage": "Поле является обязательным",
+    "publicationBuildingNone": "Выберите дом",
+    "publicationTitle": "Заголовок",
+    "publicationTitlePlaceholder": "Введите заголовок",
+    "publicationTitleErrorMessage": "Поле является обязательным и может состоять из букв латиницы, кириллицы, а также цифр и других второстепенных символов",
+    "publicationDescription": "Сообщение",
+    "publicationDescriptionPlaceholder": "Введите сообщение",
+    "publicationDescriptionErrorMessage": "Поле является обязательным и может состоять из букв латиницы, кириллицы, а также цифр и других второстепенных символов",
+    "publicationTime": "Дата",
+    "searchPlaceholder": "Искать...",
+    "sortAscByTime": "Сортировать от последней даты",
+    "sortDescByTime": "Сортировать от первой даты",
+    "dataNotFound": "Нет данных для отображения",
+    "toastCreate": "Успешно отправлено",
+    "toastUpdate": "Успешно сохранено",
+    "toastDelete": "Успешно удалено"
+}

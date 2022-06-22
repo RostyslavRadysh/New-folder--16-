@@ -1,0 +1,19 @@
+{
+    "locales": ["ua", "ru"],
+    "defaultLocale": "ua",
+    "pages": {
+        "/": ["index", "pages"],
+        "/payments": ["payments", "calendar", "pages"],
+        "/buildings": ["buildings", "calendar", "pages"],
+        "/apartments": ["apartments", "calendar", "pages"],
+        "/employees": ["employees", "calendar", "pages"],
+        "/tools": ["tools", "calendar", "pages"],
+        "/contracts": ["contracts", "calendar", "pages"],
+        "/publications": ["publications", "pages"],
+        "/polls": ["polls", "pages"],
+        "/help": ["help", "pages"],
+        "/profile": ["profile", "calendar", "pages"],
+        "/404": ["error"],
+        "/500": ["error"]
+    }
+}

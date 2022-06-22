@@ -1,0 +1,14 @@
+[
+    {
+        "id": "0",
+        "apartmentId": "0",
+        "firstName": "Іван",
+        "secondName": "Микитюк",
+        "middleName": "Сергійович",
+        "gender": 1,
+        "dateOfBirth": "1978-10-12",
+        "currency": 2,
+        "salary": 6000.00,
+        "type": 1
+    }
+]

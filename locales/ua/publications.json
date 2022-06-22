@@ -1,0 +1,21 @@
+{
+    "publicationCreate": "Надіслати новину",
+    "publicationCreateButton": "Надіслати",
+    "publicationBuilding": "Будинок",
+    "publicationBuildingErrorMessage": "Поле є обов'язковим",
+    "publicationBuildingNone": "Виберіть будинок",
+    "publicationTitle": "Заголовок",
+    "publicationTitlePlaceholder": "Введіть заголовок",
+    "publicationTitleErrorMessage": "Поле є обов'язковим та може складатися з букв латиниці, кирилиці, а також цифр та інших другорядних символів",
+    "publicationDescription": "Повідомлення",
+    "publicationDescriptionPlaceholder": "Введіть повідомлення",
+    "publicationDescriptionErrorMessage": "Поле є обов'язковим та може складатися з букв латиниці, кирилиці, а також цифр та інших другорядних символів",
+    "publicationTime": "Дата",
+    "searchPlaceholder": "Шукати...",
+    "sortAscByTime": "Сортувати від останньої дати",
+    "sortDescByTime": "Сортувати від першої дати",
+    "dataNotFound": "Немає даних для відображення",
+    "toastCreate": "Успішно надіслано",
+    "toastUpdate": "Успішно збережено",
+    "toastDelete": "Успішно видалено"
+}
